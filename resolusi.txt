@@ -1,0 +1,4 @@
+Ini adalah Resolusi Codeego
+- Konsisten belajar PDO
+- Bermanfaat untuk masyarakat luas
+- Membuat Forum diskusi
